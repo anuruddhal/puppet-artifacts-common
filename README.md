@@ -1,0 +1,1 @@
+# puppet-artifacts-common
